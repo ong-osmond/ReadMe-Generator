@@ -1,0 +1,30 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "A good readme generator using Node.js, ES6 and the Inquirer module.",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ong-osmond/ReadMe-Generator.git"
+  },
+  "keywords": [
+    "node.js",
+    "npm",
+    "ES6",
+    "inquirer",
+    "readme"
+  ],
+  "author": "Osmond Ong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ong-osmond/ReadMe-Generator/issues"
+  },
+  "homepage": "https://github.com/ong-osmond/ReadMe-Generator#readme"
+}
