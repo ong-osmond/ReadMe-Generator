@@ -3,7 +3,7 @@
 
 ## Description: 
 Welcome to my README Generator using Node.js and NPM (Node Package Manager).
-This is the link to a video demonstrating the application: https://drive.google.com/file/d/1u269VZVCoahbqdvk80uYO3lrxhiCXhC5/view (for the best video resolution, please select the 720p quality option). 
+This is the link to a video demonstrating the application: https://drive.google.com/file/d/1Nm6ZU4APV3YMbj4LnreBnaHOgaFFvxJg/view (for the best video resolution, please select the 720p quality option). 
 
 Two sample README files have been included in this project. Please see https://github.com/ong-osmond/ReadMe-Generator/blob/master/README%20ISC%20License.md or https://github.com/ong-osmond/ReadMe-Generator/blob/master/README%20MIT%20License.md
 
